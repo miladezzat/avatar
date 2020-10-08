@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/avatar-beta/static/css/main.c9e5bd3e.chunk.css",
+    "main.js": "/avatar-beta/static/js/main.d5edde9f.chunk.js",
+    "main.js.map": "/avatar-beta/static/js/main.d5edde9f.chunk.js.map",
+    "runtime-main.js": "/avatar-beta/static/js/runtime-main.245e802f.js",
+    "runtime-main.js.map": "/avatar-beta/static/js/runtime-main.245e802f.js.map",
+    "static/css/2.75056432.chunk.css": "/avatar-beta/static/css/2.75056432.chunk.css",
+    "static/js/2.e43c493b.chunk.js": "/avatar-beta/static/js/2.e43c493b.chunk.js",
+    "static/js/2.e43c493b.chunk.js.map": "/avatar-beta/static/js/2.e43c493b.chunk.js.map",
+    "index.html": "/avatar-beta/index.html",
+    "precache-manifest.35a9bf6c9b83ea3bc1dae4393d083389.js": "/avatar-beta/precache-manifest.35a9bf6c9b83ea3bc1dae4393d083389.js",
+    "service-worker.js": "/avatar-beta/service-worker.js",
+    "static/css/2.75056432.chunk.css.map": "/avatar-beta/static/css/2.75056432.chunk.css.map",
+    "static/css/main.c9e5bd3e.chunk.css.map": "/avatar-beta/static/css/main.c9e5bd3e.chunk.css.map",
+    "static/js/2.e43c493b.chunk.js.LICENSE.txt": "/avatar-beta/static/js/2.e43c493b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.245e802f.js",
+    "static/css/2.75056432.chunk.css",
+    "static/js/2.e43c493b.chunk.js",
+    "static/css/main.c9e5bd3e.chunk.css",
+    "static/js/main.d5edde9f.chunk.js"
+  ]
+}

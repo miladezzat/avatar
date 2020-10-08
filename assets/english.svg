@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="512" height="512" id="svg5823" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="uk_united_kingdom_britain_british_flag.svg">
+  <defs id="defs5825">
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath5778">
+      <rect style="fill:#2980b9;fill-opacity:1;stroke:none" id="rect5780" width="480" height="480" x="930.01068" y="-79.22789"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath3061">
+      <rect style="fill:#2980b9;fill-opacity:1;stroke:none" id="rect3063" width="480" height="480" x="16.000002" y="556.36218"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath3448">
+      <rect y="556.36218" x="16.000023" height="480" width="480" id="rect3450" style="fill:#2980b9;fill-opacity:1;stroke:none"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath3470">
+      <rect y="556.36218" x="16.000023" height="480" width="480" id="rect3472" style="fill:#2980b9;fill-opacity:1;stroke:none"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath5670">
+      <rect y="246.36218" x="-712" height="480" width="480" id="rect5672" style="fill:#2980b9;fill-opacity:1;stroke:none"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath5674">
+      <rect y="556.36218" x="16" height="480" width="480" id="rect5676" style="fill:#2980b9;fill-opacity:1;stroke:none"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath5729">
+      <rect y="549.27625" x="20.014456" height="480" width="480" id="rect5731" style="fill:#2980b9;fill-opacity:1;stroke:none"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath5806">
+      <rect style="fill:#2980b9;fill-opacity:1;stroke:none" id="rect5808" width="480" height="480" x="20.014456" y="549.27625"/>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.7071068" inkscape:cx="313.39964" inkscape:cy="311.72827" inkscape:document-units="px" inkscape:current-layer="g5733" showgrid="false" inkscape:window-width="1366" inkscape:window-height="716" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" showguides="true" inkscape:guide-bbox="true"/>
+  
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(0,-540.36218)">
+    <g id="g5733">
+      <g id="g4316" transform="translate(-2.0068385,3.54298)">
+        <path style="fill:#2b4896;fill-opacity:1;stroke:none" d="M 256 16 A 240 240 0 0 0 16 256 A 240 240 0 0 0 256 496 A 240 240 0 0 0 496 256 A 240 240 0 0 0 256 16 z " transform="translate(2.0068385,536.8192)" id="rect2999"/>
+        <path style="fill:#ffffff;fill-opacity:1;stroke:none" d="M 98.863281 74.986328 A 240 240 0 0 0 65.753906 110.17969 L 154.30469 216 L 216.88086 216 L 98.863281 74.986328 z " transform="translate(2.0068385,536.8192)" id="path3445"/>
+        <path style="fill:#ffffff;fill-opacity:1;stroke:none" d="M 411.88477 73.625 L 283.52734 216 L 348.125 216 L 445.13672 108.40625 A 240 240 0 0 0 411.88477 73.625 z " transform="translate(2.0068385,536.8192)" id="path3443"/>
+        <path style="fill:#ffffff;fill-opacity:1;stroke:none" d="M 167.49805 296 L 68.525391 405.78125 A 240 240 0 0 0 101.59766 439.7207 L 229.69141 296 L 167.49805 296 z " transform="translate(2.0068385,536.8192)" id="path3441"/>
+        <path style="fill:#ffffff;fill-opacity:1;stroke:none" d="M 282.10156 296 L 410.96484 438.92188 A 240 240 0 0 0 444.35547 404.30664 L 346.71289 296 L 282.10156 296 z " transform="translate(2.0068385,536.8192)" id="path5417"/>
+        <path style="fill:#e32d3c;fill-opacity:1;stroke:none" d="M 82.166016 90.945312 A 240 240 0 0 0 71.556641 102.54492 L 167.27344 216 L 187.69531 216 L 82.166016 90.945312 z " transform="translate(2.0068385,536.8192)" id="path3434"/>
+        <path style="fill:#e32d3c;fill-opacity:1;stroke:none" d="M 419.05859 80.306641 L 295.73828 216 L 316.79297 216 L 430.26172 91.177734 A 240 240 0 0 0 419.05859 80.306641 z " transform="translate(2.0068385,536.8192)" id="path3432"/>
+        <path style="fill:#e32d3c;fill-opacity:1;stroke:none" d="M 197.80664 295.99609 L 197.80664 296 L 83.015625 422.27734 A 240 240 0 0 0 93.644531 432.34766 L 216.07812 295.99609 L 197.80664 295.99609 z " transform="translate(2.0068385,536.8192)" id="path3430"/>
+        <path style="fill:#e32d3c;fill-opacity:1;stroke:none" d="M 312.125 296 L 427.79492 423.24414 A 240 240 0 0 0 438.45898 411.79688 L 333.2207 296 L 312.125 296 z " transform="translate(2.0068385,536.8192)" id="path5415"/>
+        <path style="fill:#ffffff;fill-opacity:1;stroke:none" d="M 256 16 A 240 240 0 0 0 216 19.396484 L 216 492.37695 A 240 240 0 0 0 256 496 A 240 240 0 0 0 296 492.60352 L 296 19.623047 A 240 240 0 0 0 256 16 z " transform="translate(2.0068385,536.8192)" id="rect3001"/>
+        <path style="fill:#ffffff;fill-opacity:1;stroke:none" d="M 19.623047 216 A 240 240 0 0 0 16 256 A 240 240 0 0 0 19.396484 296 L 492.37695 296 A 240 240 0 0 0 496 256 A 240 240 0 0 0 492.60352 216 L 19.623047 216 z " transform="translate(2.0068385,536.8192)" id="rect3003"/>
+        <path style="fill:#e32d3c;fill-opacity:1;stroke:none" d="M 256 16 A 240 240 0 0 0 232 17.453125 L 232 494.79492 A 240 240 0 0 0 256 496 A 240 240 0 0 0 280 494.54688 L 280 17.205078 A 240 240 0 0 0 256 16 z " transform="translate(2.0068385,536.8192)" id="rect3005"/>
+        <path style="fill:#e32d3c;fill-opacity:1;stroke:none" d="M 17.205078 232 A 240 240 0 0 0 16 256 A 240 240 0 0 0 17.453125 280 L 494.79492 280 A 240 240 0 0 0 496 256 A 240 240 0 0 0 494.54688 232 L 17.205078 232 z " transform="translate(2.0068385,536.8192)" id="rect3008"/>
+      </g>
+    </g>
+  </g>
+
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="uk_united_kingdom_britain_british_flag" dc:description="uk_united_kingdom_britain_british_flag" dc:publisher="Iconscout" dc:date="2017-05-26" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Vignesh Oviyan</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>
