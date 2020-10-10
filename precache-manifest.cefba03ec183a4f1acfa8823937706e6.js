@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60594583fb9a68d69ec487a85aaeaaa0",
+    "revision": "10f3c21bd9b5fb36fed01cc0c38f315a",
     "url": "/avatar/index.html"
   },
   {
-    "revision": "75a25df68f0352665f19",
+    "revision": "92ed637fff069a54449e",
     "url": "/avatar/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "ede94eb7a2887faa4fcd",
+    "revision": "ef2eb740f42a3f42dc54",
     "url": "/avatar/static/css/main.e2959928.chunk.css"
   },
   {
-    "revision": "75a25df68f0352665f19",
-    "url": "/avatar/static/js/2.33399123.chunk.js"
+    "revision": "92ed637fff069a54449e",
+    "url": "/avatar/static/js/2.fd327a51.chunk.js"
   },
   {
     "revision": "eb94d6017d8f0c633f4acf9346a3ecc8",
-    "url": "/avatar/static/js/2.33399123.chunk.js.LICENSE.txt"
+    "url": "/avatar/static/js/2.fd327a51.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ede94eb7a2887faa4fcd",
-    "url": "/avatar/static/js/main.4c252dd2.chunk.js"
+    "revision": "ef2eb740f42a3f42dc54",
+    "url": "/avatar/static/js/main.21e4eb37.chunk.js"
   },
   {
     "revision": "5e202ecb0bcc731087ca",
@@ -42,5 +42,21 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f657bf9f89432ef6620d76727961f065",
     "url": "/avatar/static/media/egypt.f657bf9f.svg"
+  },
+  {
+    "revision": "7df7570f7e5bb9b2f7dc29aded8c7238",
+    "url": "/avatar/static/media/facebook.7df7570f.svg"
+  },
+  {
+    "revision": "9b9fd9ccb6b9498f28ff1287cea4b24a",
+    "url": "/avatar/static/media/instagram.9b9fd9cc.svg"
+  },
+  {
+    "revision": "fe3b2abba285d37b489aa418c19b021c",
+    "url": "/avatar/static/media/linkedin.fe3b2abb.svg"
+  },
+  {
+    "revision": "4122a9678ce1a5b37d11095e5a0d9a68",
+    "url": "/avatar/static/media/twitter.4122a967.svg"
   }
 ]);
